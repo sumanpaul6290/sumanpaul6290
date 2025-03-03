@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumanpaul6290
+- 👋 Hi, I’m Suman Paul
 - 👀 I’m interested in Coding and Learning.
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on ...
